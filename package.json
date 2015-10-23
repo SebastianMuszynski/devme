@@ -1,9 +1,6 @@
 {
   "name": "devme",
   "version": "0.0.0",
-  "scripts": {
-    "test": "gulp test"
-  },
   "dependencies": {
     "estraverse": "~4.1.0",
     "gulp": "~3.9.0",
